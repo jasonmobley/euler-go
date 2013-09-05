@@ -21,6 +21,6 @@ func main() {
         i++
     }
 
-    fmt.Printf("The sum is %d.\n", sum)
+    fmt.Println(sum)
 }
 
