@@ -20,6 +20,3 @@ _cgo_export.*
 _testmain.go
 
 *.exe
-
-# Output of building main.go in any of the problem dirs
-[0-9][0-9][0-9]
